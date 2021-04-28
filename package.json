@@ -11,10 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-mailer": "^0.3.1",
     "nodemailer": "^6.6.0"
-  },
-  "devDependencies": {
-    "nodemailer-mock": "^1.5.8"
-  }
+  } 
 }
