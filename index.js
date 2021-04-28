@@ -12,7 +12,7 @@ app.get('/', (req,res)=>{
     service:'gmail',
     auth:{
       user:'joytalukder3332@gmail.com',
-      pass:'197126aaa'
+      pass:''
     }
   });
  
